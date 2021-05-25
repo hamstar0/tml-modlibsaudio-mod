@@ -1,4 +1,4 @@
-# Mod Libs - Libraries - Audio
+# Mod Libs - Services - Audio
 
 Supplies a service for playing custom overlayed sound loops.
 
